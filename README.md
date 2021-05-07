@@ -11,4 +11,4 @@ Below are some screenshots :-
 ![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-07 at 11 49 39](https://user-images.githubusercontent.com/81283951/117408481-a6b1ee80-af2d-11eb-8703-cf56c01c2291.png)
 ![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-07 at 11 49 47](https://user-images.githubusercontent.com/81283951/117408484-a7e31b80-af2d-11eb-900e-a90be8c69580.png)
 ![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-07 at 11 49 54](https://user-images.githubusercontent.com/81283951/117408488-a87bb200-af2d-11eb-80f0-7f6be67359db.png)
-![Simulator Screen Shot - iPhone SE (2nd generation) - 2021-05-07 at 11 50 11](https://user-images.githubusercontent.com/81283951/117408492-aa457580-af2d-11eb-9d77-7c7b2061d285.png)
+
